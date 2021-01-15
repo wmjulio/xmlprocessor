@@ -27,6 +27,9 @@
  ##### Testes
  - php artisan test
  
+ ##### Iniciar Execução da fila
+ - php artisan queue:work
+ 
  
  #### API
  
